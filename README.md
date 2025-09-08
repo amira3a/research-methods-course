@@ -1,4 +1,4 @@
-# 🎓 GenAI Interactive Course
+# 🎓 Research Methods Course
 
 An interactive learning platform built with **React + Vite**, designed to deliver lessons, case studies, quizzes, and summaries in a simple and engaging way.  
 
